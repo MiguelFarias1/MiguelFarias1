@@ -37,4 +37,21 @@
    <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
+<div>
+  <a href="(https://github.com/MiguelFarias1)">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelFarias1&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFarias1&layout=compact&langs_count=7&theme=react" />
 
+  <img align="center" width="148" height="180" src="https://th.bing.com/th/id/R.305ff88e24f9460bb79644e197af92a9?rik=U8PLSTr0wltKwQ&pid=ImgRaw&r=0">
+</div>
+ <br>
+
+  <br><a href="https://www.youtube.com/channel/UCSawC0irKSG8W05zahr1i9w" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/miguelfariasb_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https:https://www.linkedin.com/in/miguel-farias-6628b01bb//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/MiguelFarias1/MiguelFarias1/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MiguelFarias1&repo=MiguelFarias1&theme=react)](https://github.com/MiguelFarias1/MiguelFarias1))
