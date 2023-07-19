@@ -5,6 +5,13 @@
 - 🔭 Sou desenvolvedor focado na área do backend
 - 👀 Atualmente estou interessado em: Java, JavaScript e TypeScript.
 
+<div>
+  <a href="(https://github.com/MiguelFarias1)">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelFarias1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFarias1&layout=compact&langs_count=7&theme=react" />
+  <img align="center" width="148" height="180" src="https://th.bing.com/th/id/R.305ff88e24f9460bb79644e197af92a9?rik=U8PLSTr0wltKwQ&pid=ImgRaw&r=0">
+</div>
+    
 <h3 align="left"> 📫 Se conecte comigo:</h3>
 <p align="left">
   <ul>
@@ -37,15 +44,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<div>
-  <a href="(https://github.com/MiguelFarias1)">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelFarias1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFarias1&layout=compact&langs_count=7&theme=react" />
-  <img align="center" width="148" height="180" src="https://th.bing.com/th/id/R.305ff88e24f9460bb79644e197af92a9?rik=U8PLSTr0wltKwQ&pid=ImgRaw&r=0">
-</div>
 <br>
 
-
 ![Snake animation](https://github.com/MiguelFarias1/MiguelFarias1/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MiguelFarias1&repo=MiguelFarias1&theme=react)](https://github.com/MiguelFarias1/MiguelFarias1)
