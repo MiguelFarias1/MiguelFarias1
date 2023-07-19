@@ -1,12 +1,12 @@
-<h1>Hi 👋 , Glad to see you here! I'm Miguel</h1>
-<h3>An Java BackEnd developer and computer science Student</h3> </br>
+<h1>Olá 👋 , Prazer em conhecê-lo !</h1>
+<h3>Eu sou o Miguel um desenvolvedor Java BackEnd e estudante do 4° período de ciência da computação</h3> </br>
 
-- 🇧🇷  I’m a brazilian based in Ipu,Ceará 
-- 🔭  I’m a backend developer
-- 👀  I’m interested in Java, SQL, NoSql, JavaScript and TypeScript
+- 🇧🇷  Moro em Ipu, Ceará
+- 🔭  Sou desenvolvedor focado na área do backend
+- 👀  Atualmente estou interessado em: Java, JavaScript e TypeScript.
 
 </br>
-<h3 align="left"> 📫 Connect with me:</h3>
+<h3 align="left"> 📫 Se conecte comigo:</h3>
 <p align="left">
 
   <a href = "(https://medium.com/@miguelfariasb8)"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
@@ -46,7 +46,7 @@
 </div>
  <br>
 
-  <br><a href="https://www.youtube.com/channel/UCSawC0irKSG8W05zahr1i9w" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <br><a href="https://www.youtube.com/channel/UCp5prKHaRPjIprAUa9LNT1g" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/miguelfariasb_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https:https://www.linkedin.com/in/miguel-farias-6628b01bb//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
