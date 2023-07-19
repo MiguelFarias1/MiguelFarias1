@@ -1,5 +1,5 @@
 <h1>Olá 👋 , Prazer em conhecê-lo !</h1>
-<h3>Eu sou o Miguel um desenvolvedor Java BackEnd e estudante do 4° período de ciência da computação</h3> </br>
+<h3>Eu sou o Miguel, um desenvolvedor Java BackEnd e estudante do 4° período de ciência da computação</h3> </br>
 
 - 🇧🇷  Moro em Ipu, Ceará
 - 🔭  Sou desenvolvedor focado na área do backend
@@ -16,7 +16,7 @@
 </br>
 
 
-<h3 align="left">Working with:</h3></br>
+<h3 align="left">Trabalho com:</h3></br>
 <p align="left"> 
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
