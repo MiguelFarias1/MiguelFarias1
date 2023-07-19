@@ -1,7 +1,7 @@
 <h1>Hi 👋 , Glad to see you here! I'm Miguel</h1>
 <h3>An Java BackEnd developer and computer science Student</h3> </br>
 
-- 🇧🇷  I’m a brazilian based in Ipu,Ceará 🇵🇹
+- 🇧🇷  I’m a brazilian based in Ipu,Ceará 
 - 🔭  I’m a backend developer
 - 👀  I’m interested in Java, SQL, NoSql, JavaScript and TypeScript
 
@@ -36,3 +36,5 @@
 
    <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+
