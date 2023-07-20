@@ -19,7 +19,7 @@
     <li><a href="mailto:miguelfariasb8@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
     <li><a href="(https://www.linkedin.com/in/miguel-farias-6628b01bb/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
   <li><a href="https://www.youtube.com/channel/UCp5prKHaRPjIprAUa9LNT1g" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></li>
-  <li><a href="https://www.instagram.com/miguelfariasb_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></li>
+  <li><a href="https://www.instagram.com/miguelfariasb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></li>
 </ul>
 </p>
 
