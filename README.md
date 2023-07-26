@@ -12,7 +12,7 @@
   <img align="center" width="148" height="180" src="https://th.bing.com/th/id/R.305ff88e24f9460bb79644e197af92a9?rik=U8PLSTr0wltKwQ&pid=ImgRaw&r=0">
 </div>
     
-<h3 align="left"> 📫 Se conecte comigo:</h3>
+<h3 align="left"> 📫 Se conecte comigo</h3>
 <p align="left">
   <ul>
     <li><a href="https://medium.com/@miguelfariasb8"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a></li>
@@ -23,7 +23,8 @@
 </ul>
 </p>
 
-<h3 align="left">Trabalho com:</h3>
+<h3 align="left">Tecnologias</h3>
+
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -43,6 +44,16 @@
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
 <br>
 
+<details>
+<summary>EDUCAÇÃO, CERTIFICAÇÕES & CURSOS</summary>
+
+| Course | Place | Hours |
+| :---: | :---: | :---: |
+| Ciência da Computação | Universidade Federal do Ceará | 2021 - 2025 |
+| Java - POO; SpringBoot; MongoDB; JPA; Hibernate... | Udemy - Nélio Alves | 50h |
+| Especialista Java | AlgaWorks | 280h |
+| Especialista JPA | AlgaWorks | 100h |
+| Escpecialista Spring Rest | AlgaWorks | 280h |
+| SQL impressionador | HashTag Treinamentos | 83h |
