@@ -1,9 +1,9 @@
 <h1>Olá 👋, Prazer em conhecê-lo!</h1>
-<h3>Eu sou o Miguel, um desenvolvedor Java BackEnd e estudante do 4° período de ciência da computação</h3>
+<h3>Eu sou o Miguel, um desenvolvedor BackEnd e estudante do 5° período de ciência da computação</h3>
 
 - 🇧🇷 Moro em Ipu, Ceará
 - 🔭 Sou desenvolvedor focado na área do backend
-- 👀 Atualmente estou interessado em: Java, JavaScript e TypeScript.
+- 👀 Atualmente estou interessado em: C# e NodeJs.
 
 <div>
   <a href="(https://github.com/MiguelFarias1)">
@@ -53,7 +53,4 @@
 | :---: | :---: | :---: |
 | Ciência da Computação | Universidade Federal do Ceará | 2021 - 2025 |
 | Java - POO; SpringBoot; MongoDB; JPA; Hibernate... | Udemy - Nélio Alves | 50h |
-| Especialista Java | AlgaWorks | 280h |
-| Especialista JPA | AlgaWorks | 100h |
-| Escpecialista Spring Rest | AlgaWorks | 280h |
-| SQL impressionador | HashTag Treinamentos | 83h |
+
