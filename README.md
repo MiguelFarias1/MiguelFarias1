@@ -3,7 +3,7 @@
 
 - 🇧🇷 Moro em Ipu, Ceará
 - 🔭 Sou desenvolvedor focado na área do backend
-- 👀 Atualmente estou interessado em: C# e NodeJs.
+- 👀 Atualmente estou interessado em: C#, Java e futuramente Node.
 
 <div>
   <a href="(https://github.com/MiguelFarias1)">
@@ -15,7 +15,6 @@
 <h3 align="left"> 📫 Se conecte comigo</h3>
 <p align="left">
   <ul>
-    <li><a href="https://medium.com/@miguelfariasb8"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a></li>
     <li><a href="mailto:miguelfariasb8@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
     <li><a href="https://www.linkedin.com/in/miguel-farias-6628b01bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
   <li><a href="https://www.youtube.com/channel/UCp5prKHaRPjIprAUa9LNT1g" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></li>
@@ -28,12 +27,8 @@
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>  
   <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
@@ -52,5 +47,6 @@
 | Course | Place | Hours |
 | :---: | :---: | :---: |
 | Ciência da Computação | Universidade Federal do Ceará | 2021 - 2025 |
-| Java - POO; SpringBoot; MongoDB; JPA; Hibernate... | Udemy - Nélio Alves | 50h |
-
+| Java - POO; SpringBoot; MongoDB; JPA; Hibernate... | Udemy| - Nélio Alves | 50h |
+| Fundamentos do ASP.NET, Dapper, Entity FrameWork | Balta.IO - André Baltieri| 7h | 
+| Fundamentos do C# | Balta.IO - André Baltieri | 12h |
