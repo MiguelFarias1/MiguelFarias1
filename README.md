@@ -47,6 +47,6 @@
 | Course | Place | Hours |
 | :---: | :---: | :---: |
 | Ciência da Computação | Universidade Federal do Ceará | 2021 - 2025 |
-| Java - POO; SpringBoot; MongoDB; JPA; Hibernate... | Udemy| - Nélio Alves | 50h |
+| Java - POO; SpringBoot; MongoDB; JPA; Hibernate... | Udemy| Nélio Alves | 50h |
 | Fundamentos do ASP.NET, Dapper, Entity FrameWork | Balta.IO - André Baltieri| 7h | 
 | Fundamentos do C# | Balta.IO - André Baltieri | 12h |
